@@ -1,0 +1,27 @@
+name: su_takip
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+    flutter:
+      sdk: flutter
+    cupertino_icons: ^1.0.2
+
+    firebase_core: ^2.30.0
+    firebase_auth: ^4.20.0
+    cloud_firestore: ^4.16.0
+    intl: any
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
