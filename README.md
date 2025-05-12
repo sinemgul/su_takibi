@@ -1,16 +1,25 @@
-# su_takip
 
-A new Flutter project.
+💧 Su Takip Uygulaması (Flutter + Firebase)
+Bu uygulama, günlük su tüketimini takip etmek isteyen kullanıcılar için geliştirilmiş basit ve kullanıcı dostu bir mobil/web uygulamasıdır. Kullanıcılar giriş yapabilir, kayıt olabilir ve günlük içmeleri gereken su miktarını vücut ağırlıklarına göre otomatik hesaplayabilir.
 
-## Getting Started
+🚀 Özellikler
+Firebase destekli kullanıcı girişi ve kayıt sistemi
 
-This project is a starting point for a Flutter application.
+Günlük su ihtiyacı hesaplama (kg × 35 ml)
 
-A few resources to get you started if this is your first Flutter project:
+Flutter destekli responsive arayüz
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Web ve mobil uyumlu
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Türkçe dil desteği
+
+🛠️ Kullanılan Teknolojiler
+Flutter
+
+Firebase Authentication
+
+Firebase Core
+
+Material UI
+
+intl (tarih/saat yerelleştirme)
